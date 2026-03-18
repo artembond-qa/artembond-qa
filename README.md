@@ -1,6 +1,9 @@
 <h1 align="center">
   <a href="https://github.com/artembond-qa">
-    <img src="https://github.com/artembond-qa/artembond-qa/blob/main/assets/image.jpg&center=true&size=30">
+    <img src="https://github.com/artembond-qa/artembond-qa/blob/main/assets/image.jpg"
+    alt="image" 
+         width="30" 
+         height="30">
   </a>
 </h1>
 
