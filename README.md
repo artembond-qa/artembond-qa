@@ -2,7 +2,7 @@
   <a href="https://github.com/artembond-qa">
     <img src="https://github.com/artembond-qa/artembond-qa/blob/main/assets/image.jpg"
     alt="image" 
-         width="500" 
+         width="10000" 
          height="100">
   </a>
 </h1>
