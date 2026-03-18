@@ -3,7 +3,7 @@
     <img src="https://github.com/artembond-qa/artembond-qa/blob/main/assets/image.jpg"
     alt="image" 
          width="1000" 
-         height="1000">
+         height="500">
   </a>
 </h1>
 
