@@ -7,7 +7,7 @@
   </a>
 </h1>
 
-### **Junior QA Engineer** | Software Testing Enthusiast
+### 🛠️Junior QA Engineer** | Software Testing Enthusiast
 
 Recently completed courses in manual and automated testing and actively looking for my first QA position.
 
@@ -29,9 +29,9 @@ Feel free to reach out — happy to chat or do a test task! 🔥
 
 ## 👨‍💻Featured Projects
 
-#### 🧰 Dev Tools
+### 🧰 Dev Tools
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/-Postman-F26B3A?style=flat-square&logo=postman)
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
