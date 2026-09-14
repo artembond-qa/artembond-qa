@@ -84,7 +84,7 @@ validation and authorization issues.
 ## 🌐 Connect With Me
 
 +380735230987
-📧 [Email](mailto:artembondarenko7780@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/artem-bondarenko-artem-433018395//)  
+📧 [Email] artembondarenko7780@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/artem-bondarenko-artem-433018395/)  
 💻 [GitHub](https://github.com/artembond-qa)
 
